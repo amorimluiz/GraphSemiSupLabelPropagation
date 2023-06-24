@@ -27,7 +27,7 @@
 <p align="justify">To run the code and reproduce the experiments, follow these steps:
   <ol>
     <li>Install the required dependencies: <b>numpy</b>, <b>scipy</b>, and <b>scikit-learn</b>.
-    <li>Clone this repository: <b>git clone https://github.com/your-username/GraphSemiSupLabelProp.git</b>.
+    <li>Clone this repository: <b>git clone https://github.com/amorimluiz/GraphSemiSupLabelProp.git</b>.
     <li>Navigate to the project directory: <b>cd GraphSemiSupLabelProp</b>.
     <li>Run the main script: <b>python main.py</b>.
     <li>The results will be stored in corresponding CSV files.
